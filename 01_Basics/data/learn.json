@@ -1,182 +1,212 @@
-{
-  "1": {
+[
+  {
+    "lSequence": 1,
     "lBuild": 5,
     "lDecrease": 200,
     "lDiameter": 7,
     "lLabel": "Shaniya Carr"
   },
-  "2": {
+  {
+    "lSequence": 2,
     "lBuild": 15,
     "lDecrease": 192,
     "lDiameter": 7,
     "lLabel": "Austin Young"
   },
-  "3": {
+  {
+    "lSequence": 3,
     "lBuild": 15,
     "lDecrease": 189,
     "lDiameter": 14,
     "lLabel": "Keagan Christian"
   },
-  "4": {
+  {
+    "lSequence": 4,
     "lBuild": 23,
     "lDecrease": 181,
     "lDiameter": 15,
     "lLabel": "Maci Jensen"
   },
-  "5": {
+  {
+    "lSequence": 5,
     "lBuild": 25,
     "lDecrease": 180,
     "lDiameter": 8,
     "lLabel": "Kiersten Reilly"
   },
-  "6": {
+  {
+    "lSequence": 6,
     "lBuild": 35,
     "lDecrease": 180,
     "lDiameter": 17,
     "lLabel": "Brock Sweeney"
   },
-  "7": {
+  {
+    "lSequence": 7,
     "lBuild": 40,
     "lDecrease": 174,
     "lDiameter": 7,
     "lLabel": "Stacy Knapp"
   },
-  "8": {
+  {
+    "lSequence": 8,
     "lBuild": 41,
     "lDecrease": 173,
     "lDiameter": 9,
     "lLabel": "Cooper Carson"
   },
-  "9": {
+  {
+    "lSequence": 9,
     "lBuild": 41,
     "lDecrease": 163,
     "lDiameter": 10,
     "lLabel": "Killian Steele"
   },
-  "10": {
+  {
+    "lSequence": 10,
     "lBuild": 49,
     "lDecrease": 157,
     "lDiameter": 15,
     "lLabel": "Adam Nielsen"
   },
-  "11": {
+  {
+    "lSequence": 11,
     "lBuild": 50,
     "lDecrease": 154,
     "lDiameter": 8,
     "lLabel": "Trey Golden"
   },
-  "12": {
+  {
+    "lSequence": 12,
     "lBuild": 58,
     "lDecrease": 147,
     "lDiameter": 12,
     "lLabel": "Maleah Castaneda"
   },
-  "13": {
+  {
+    "lSequence": 13,
     "lBuild": 63,
     "lDecrease": 140,
     "lDiameter": 7,
     "lLabel": "Parker Shannon"
   },
-  "14": {
+  {
+    "lSequence": 14,
     "lBuild": 73,
     "lDecrease": 134,
     "lDiameter": 5,
     "lLabel": "Jenny Schneider"
   },
-  "15": {
+  {
+    "lSequence": 15,
     "lBuild": 75,
     "lDecrease": 131,
     "lDiameter": 17,
     "lLabel": "Tripp Hart"
   },
-  "16": {
+  {
+    "lSequence": 16,
     "lBuild": 75,
     "lDecrease": 126,
     "lDiameter": 11,
     "lLabel": "Evangeline Levine"
   },
-  "17": {
+  {
+    "lSequence": 17,
     "lBuild": 78,
     "lDecrease": 120,
     "lDiameter": 13,
     "lLabel": "Ana Singleton"
   },
-  "18": {
+  {
+    "lSequence": 18,
     "lBuild": 84,
     "lDecrease": 114,
     "lDiameter": 16,
     "lLabel": "Carolyn Hamilton"
   },
-  "19": {
+  {
+    "lSequence": 19,
     "lBuild": 87,
     "lDecrease": 109,
     "lDiameter": 9,
     "lLabel": "Skye Serrano"
   },
-  "20": {
+  {
+    "lSequence": 20,
     "lBuild": 96,
     "lDecrease": 109,
     "lDiameter": 5,
     "lLabel": "Zachariah Coleman"
   },
-  "21": {
+  {
+    "lSequence": 21,
     "lBuild": 98,
     "lDecrease": 105,
     "lDiameter": 20,
     "lLabel": "German Esparza"
   },
-  "22": {
+  {
+    "lSequence": 22,
     "lBuild": 100,
     "lDecrease": 99,
     "lDiameter": 14,
     "lLabel": "Aisha Roach"
   },
-  "23": {
+  {
+    "lSequence": 23,
     "lBuild": 101,
     "lDecrease": 96,
     "lDiameter": 17,
     "lLabel": "Alexa Marquez"
   },
-  "24": {
+  {
+    "lSequence": 24,
     "lBuild": 110,
     "lDecrease": 92,
     "lDiameter": 14,
     "lLabel": "Tristan Mcintyre"
   },
-  "25": {
+  {
+    "lSequence": 25,
     "lBuild": 116,
     "lDecrease": 85,
     "lDiameter": 7,
     "lLabel": "Maia Blanchard"
   },
-  "26": {
+  {
+    "lSequence": 26,
     "lBuild": 123,
     "lDecrease": 82,
     "lDiameter": 14,
     "lLabel": "Koen Prince"
   },
-  "27": {
+  {
+    "lSequence": 27,
     "lBuild": 128,
     "lDecrease": 73,
     "lDiameter": 6,
     "lLabel": "Konnor Mcdowell"
   },
-  "28": {
+  {
+    "lSequence": 28,
     "lBuild": 134,
     "lDecrease": 63,
     "lDiameter": 12,
     "lLabel": "Leo Braun"
   },
-  "29": {
+  {
+    "lSequence": 29,
     "lBuild": 139,
     "lDecrease": 62,
     "lDiameter": 16,
     "lLabel": "Donovan Herman"
   },
-  "30": {
+  {
+    "lSequence": 30,
     "lBuild": 141,
     "lDecrease": 61,
     "lDiameter": 6,
     "lLabel": "Aaliyah Travis"
   }
-}
+]
