@@ -9,7 +9,7 @@ svg.selectAll('circle')
     .data(data)
     .enter()
     .append('circle')
-    .attr( 'r', 2 )
+    .attr( 'r', d => d.lDiameter )
     .attr( 'fill', 'red' )
     .attr( 'cx', d => d.lDecrease )
     .attr( 'cy', d => d.lBuild ); 
