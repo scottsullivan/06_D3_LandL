@@ -1,5 +1,5 @@
 //D3 L&L 01b, the Basics, with JSON!
-const MARGIN = { LEFT: 100, RIGHT: 10, TOP: 10, BOTTOM: 100 }
+const MARGIN = { LEFT: 35, RIGHT: 10, TOP: 10, BOTTOM: 100 }
 const WIDTH = 800 - MARGIN.LEFT - MARGIN.RIGHT
 const HEIGHT = 600 - MARGIN.TOP - MARGIN.BOTTOM
 
@@ -11,15 +11,16 @@ const svg = d3.select('#chart-area')
 
 const x = d3.scaleLinear()
     .domain(d3.extent(data, d => d.lDecrease ))
-    .range([ 0, WIDTH ])
+    .range([ MARGIN.LEFT, WIDTH ])
 svg.append("g")
-    .attr("transform", `translate(0, ${ HEIGHT })`)
+    .attr("transform", `translate(0, ${ HEIGHT + MARGIN.TOP })`)
     .call(d3.axisBottom(x));
     
 const y = d3.scaleLinear()
     .domain(d3.extent(data, d => d.lBuild ))
-    .range([ HEIGHT, 0 ])
+    .range([ HEIGHT + MARGIN.TOP, 0 ])
 svg.append("g")
+    .attr("transform", `translate(${ MARGIN.LEFT}, ${MARGIN.TOP})`)
     .call(d3.axisLeft(y));
         
 svg.selectAll('circle')
